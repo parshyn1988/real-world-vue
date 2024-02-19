@@ -1,7 +1,7 @@
 {
   "events": [
      {
-      "id": 123,
+      "id": 1001,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
@@ -12,7 +12,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id": 456,
+      "id": 1002,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -23,7 +23,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 1003,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -32,6 +32,50 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1004,
+      "category": "cinema",
+      "title": "Terminator",
+      "description": "No fate.",
+      "location": "Los Angeles",
+      "date": "July 28, 1989",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Kameron Diaz"
+    },
+    {
+      "id": 1005,
+      "category": "food",
+      "title": "Junk Food",
+      "description": "Eat as much as possible.",
+      "location": "Texac",
+      "date": "April 01, 2021",
+      "time": "20:00",
+      "petsAllowed": true,
+      "organizer": "Mark Twen"
+    },
+    {
+      "id": 1006,
+      "category": "cinema",
+      "title": "Home alone",
+      "description": "When he stayed at home alone.",
+      "location": "Chicago",
+      "date": "December 24, 1990",
+      "time": "23:00",
+      "petsAllowed": true,
+      "organizer": "Maccaley Kalkin"
+    },
+    {
+      "id": 1007,
+      "category": "it",
+      "title": "Code camp",
+      "description": "This stupid stupid code.",
+      "location": "New York",
+      "date": "Febuary 19, 2023",
+      "time": "9:00",
+      "petsAllowed": false,
+      "organizer": "Baz Voznik"
     } 
   ]
 }
