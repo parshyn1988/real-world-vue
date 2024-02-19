@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 123,
     "category": "animal welfare",
@@ -32,4 +32,4 @@
     "petsAllowed": false,
     "organizer": "Carey Wales"
   }
-]
+}
